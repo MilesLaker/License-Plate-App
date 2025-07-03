@@ -2,6 +2,8 @@
 
 by Miles Laker for CS153a Brandeis University  
 This is an [Expo](https://expo.dev/) project created with `create-expo-app`.
+My final build with all working features is the FINALBUILDPEERREVIEW.js file, if you wish to run this version use that file instead of app.js
+
 
 ---
 
